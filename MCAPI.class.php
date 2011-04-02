@@ -1,10 +1,14 @@
 <?php
 
 class MCAPI {
-    protected
+
+    public
+
         $version = "1.3",
         $errorMessage,
-        $errorCode,
+        $errorCode;
+
+    protected
 
         /**
          * Cache the information on the API location on the server
