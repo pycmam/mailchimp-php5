@@ -5,7 +5,6 @@ Tested under: PHP 5
 
 Requires:
     * PHP 5
-    * PHP 4 may work, but it has not and won't be tested
 
 ===== About =====
 Our MCAPI (MailChimp API) wrapper class is provided to help jump-start your PHP 
